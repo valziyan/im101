@@ -46,8 +46,8 @@ try {
         </ul>
     </nav>
 
-    <h1>Home Page</h1>
-        
+    <h1>Home</h1>
+
     <form action="" method="post">
         Name: <input type="text" name="name"><br>
         <input type="submit" value="SAVE">
